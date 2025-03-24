@@ -1,0 +1,6 @@
+customhost = ""
+customuser = "" 
+custompass = ""
+customDb = ""
+custombucket = ""
+customregion = ""
